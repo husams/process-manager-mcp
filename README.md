@@ -297,7 +297,25 @@ This project is part of the MCP ecosystem. Please refer to the main repository f
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for the complete license text.
+
+### What this means:
+- ✅ **Commercial use** - You can use this software for commercial purposes
+- ✅ **Modification** - You can modify the source code
+- ✅ **Distribution** - You can distribute the software
+- ✅ **Patent use** - Express patent grant from contributors
+- ✅ **Private use** - You can use this software for private purposes
+
+### Requirements:
+- 📄 **License and copyright notice** - Include the license and copyright notice
+- 📝 **State changes** - Document any changes you make to the code
+
+### Limitations:
+- ❌ **Liability** - No liability protection for the authors
+- ❌ **Warranty** - No warranty is provided
+- ❌ **Trademark use** - Does not grant trademark rights
+
+For more information about the Apache License 2.0, visit: https://www.apache.org/licenses/LICENSE-2.0
 
 ## Related Projects
 
