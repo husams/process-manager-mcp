@@ -1,6 +1,6 @@
 # Process Manager MCP Server
 
-> **⚠️ Experimental Project**: This is an experimental MCP server under active development. Features and APIs may change without notice. Use with caution in production environments.
+> **⚠️ EXPERIMENTAL PROJECT - NOT FOR PRODUCTION USE**: This is an experimental MCP server under active development. Features and APIs may change without notice. **DO NOT USE IN PRODUCTION ENVIRONMENTS.** Use at your own risk. The authors are not responsible for any damage, data loss, or system issues that may result from using this software.
 
 A Model Context Protocol (MCP) server that provides AI assistants with safe process management capabilities. This server allows LLMs to monitor, query, and manage system processes with built-in security restrictions.
 
