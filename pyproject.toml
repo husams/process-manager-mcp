@@ -1,10 +1,19 @@
 [project]
 name = "process-manager-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Model Context Protocol (MCP) server for safe process management with AI assistants"
 readme = "README.md"
+license = {text = "Apache-2.0"}
+authors = [
+    {name = "Husam Senussi"}
+]
 requires-python = ">=3.12"
 dependencies = [
     "mcp[cli]>=1.10.1",
     "psutil>=7.0.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/husams/process-manager-mcp"
+Repository = "https://github.com/husams/process-manager-mcp"
+Issues = "https://github.com/husams/process-manager-mcp/issues"

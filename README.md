@@ -295,6 +295,10 @@ This project follows the Model Context Protocol standards. Contributions should:
 
 This project is part of the MCP ecosystem. Please refer to the main repository for licensing information.
 
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 ## Related Projects
 
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Main MCP documentation
